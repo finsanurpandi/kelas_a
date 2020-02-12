@@ -1,0 +1,1 @@
+tambahkan file dental format [npm-nama].txt kedalam folder ini sebagai contributor.
